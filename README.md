@@ -262,15 +262,13 @@ pip install -r requirements.txt
 ## 📊 Sample Visualizations
 
 ### Revenue Trend Analysis
-![Revenue Trend](visualizations/revenue_trends.png)
 *Year-over-year revenue growth showing seasonal patterns and overall upward trend*
 
 ### Profit Margin by Product
-![Profit Margin](visualizations/profit_analysis.png)
 *Comparative profit margins across product categories highlighting top performers*
 
-### Budget vs Actual Performance
-![Budget Performance](visualizations/budget_variance.png)
+### Revenue vs Profit Margin 
+
 *Variance analysis showing achievement rates across different segments*
 
 ---
