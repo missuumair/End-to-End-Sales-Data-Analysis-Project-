@@ -132,10 +132,9 @@ XYZ.CO needs to analyze five years of sales data to understand key revenue and p
 5. **Concentration Risks**: [X% revenue from top Y products/regions]
 
 ### Performance Metrics
-- **Total Revenue (2014-2018)**: $[XX.X]M
-- **Average Annual Growth Rate**: [X]%
-- **Overall Profit Margin**: [X]%
-- **Budget Achievement Rate**: [X]%
+- **Total Revenue (2014-2018)**: $950 M
+- **Average Annual Growth Rate**: 33% to 43%
+- **Overall Profit Margin**: 21%
 
 ---
 
