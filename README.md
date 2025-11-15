@@ -310,15 +310,14 @@ Contributions are welcome! Please follow these steps:
 - XYZ.CO for providing the comprehensive sales dataset
 - Data Analytics team for domain expertise and business context
 - Open-source community for powerful analysis tools
-- [Any other contributors or resources]
+
 
 ---
 
 ## 📚 Additional Resources
 
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Data Analysis Best Practices](https://www.example.com)
-- [Time Series Analysis Guide](https://www.example.com)
+
 
 ---
 
